@@ -8,7 +8,7 @@ El parametro `-v` te muestra los branches locales
 ```
 git branch -v
 ```
-
+// probando
 El parametro `-D` borra el branch en mención
 ```
 git branch -D <mi_branch>
